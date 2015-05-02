@@ -1,0 +1,11 @@
+{
+    "name": "WechatJS",
+    "version": "0.0.1",
+    "authors": [
+        "Jean Lelievre"
+    ],
+    "dependencies": {
+        "jssha": "1.6.0"
+    },
+    "licence": "CC-Attribution-ShareAlike"
+}
